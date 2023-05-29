@@ -1,0 +1,72 @@
+#starter{
+    padding: 10%;
+    position: relative;
+}
+/*for the title*/
+#etch{
+    position:absolute;
+    left:45%;
+    bottom:90%;
+    font-size: 600%;
+}
+/*forthe write up*/
+#move{
+    position: absolute;
+    left: 38%;
+    bottom: 85%;
+    font-style: italic;
+    font-size: 600%;
+    color:blue;
+}
+/*for buttons form, black, random, reset*/
+#form{
+    position: absolute;
+    left:27%;
+    top:40%;
+    font-size: 300%;
+    width:300px;
+    height:100px;
+}
+
+#black{
+    position:absolute;
+    left:27%;
+    top:45%;
+    font-size: 300%;
+    width:300px;
+    height:100px;
+}
+
+#random{
+    position:absolute;
+    left:27%;
+    top:50%;
+    font-size: 300%;
+    width:300px;
+    height:100px;
+}
+
+#reset{
+    position:absolute;
+    left:27%;
+    top:55%;
+    font-size: 300%;
+    width: 300px;
+    height: 100px;
+}
+
+#parent{
+    margin-left: 30%;
+    display: grid;
+    border:5px solid black;
+    width:2000px;
+    height:2000px;
+}
+
+#child1{
+    aspect-ratio: 1/1;
+    border:1px solid gray;
+    /*width:0.4dvh;
+    height:0.4dvh;*/
+    background-color: white;
+}
