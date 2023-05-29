@@ -7,7 +7,7 @@
     position:absolute;
     left:45%;
     bottom:90%;
-    font-size: 600%;
+    font-size: 150%;
 }
 /*forthe write up*/
 #move{
@@ -15,52 +15,52 @@
     left: 38%;
     bottom: 85%;
     font-style: italic;
-    font-size: 600%;
+    font-size: 150%;
     color:blue;
 }
 /*for buttons form, black, random, reset*/
 #form{
     position: absolute;
     left:27%;
-    top:40%;
-    font-size: 300%;
-    width:300px;
-    height:100px;
+    top:30%;
+    font-size: 100%;
+    width:100px;
+    height:30px;
 }
 
 #black{
     position:absolute;
     left:27%;
-    top:45%;
-    font-size: 300%;
-    width:300px;
-    height:100px;
+    top:35%;
+    font-size: 100%;
+    width:100px;
+    height:30px;
 }
 
 #random{
     position:absolute;
     left:27%;
-    top:50%;
-    font-size: 300%;
-    width:300px;
-    height:100px;
+    top:40%;
+    font-size: 100%;
+    width:100px;
+    height:30px;
 }
 
 #reset{
     position:absolute;
     left:27%;
-    top:55%;
-    font-size: 300%;
-    width: 300px;
-    height: 100px;
+    top:45%;
+    font-size: 100%;
+    width: 100px;
+    height: 30px;
 }
 
 #parent{
     margin-left: 30%;
     display: grid;
-    border:5px solid black;
-    width:2000px;
-    height:2000px;
+    border:2px solid black;
+    width:700px;
+    height:700px;
 }
 
 #child1{
